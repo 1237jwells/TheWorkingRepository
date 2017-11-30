@@ -1,0 +1,1 @@
+C:\Users\Copper\Downloads\CSUnitTests-master\CSUnitTests-master\MVVMExample\MVVMExample.csproj;x86
